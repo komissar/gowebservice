@@ -1,2 +1,2 @@
 # gowebservice
-Webservices demo
+Webservices demo using GO lang
