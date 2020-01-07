@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println("My favourite number is", rand.Intn(100))
+	fmt.Println("My favourite number is", rand.Intn(1000))
 }
